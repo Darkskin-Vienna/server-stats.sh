@@ -3,7 +3,7 @@ this is a simple Bash script that checks basic server performance statistics suc
 CPU usage, memory usage, disk usage, open port, user login history
 
 # project link:
-[https://github.com/Darkskin-Vienna/server-stats.sh]
+[https://roadmap.sh/projects/server-stats]
 
 # How to Run
 copy the script
