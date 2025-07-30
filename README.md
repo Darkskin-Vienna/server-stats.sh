@@ -1,7 +1,9 @@
 # server-stats.sh
-project link:[https://github.com/Darkskin-Vienna/server-stats.sh]
 this is a simple Bash script that checks basic server performance statistics such as:
 CPU usage, memory usage, disk usage, open port, user login history
+
+# project link:
+[https://github.com/Darkskin-Vienna/server-stats.sh]
 
 # How to Run
 copy the script
